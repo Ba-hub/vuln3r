@@ -64,9 +64,9 @@ Easy Vulnerability Detection &amp; Hints With CVE Number For Exploitation
    ```sh
    git clone https://github.com/Ba-hub/vuln3r.git
    ```
-2. Give Executable Permission 
+2. Run the Programme
 
-* For Kali Linux,Ubantu, Debian
+* For Kali Linux, Ubantu, Debian, Termux all distro
 
    ```
    python3 vuln3r.py -h
