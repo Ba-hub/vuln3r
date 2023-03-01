@@ -1,9 +1,6 @@
 # vuln3r
 Easy Vulnerability Detection &amp; Hints With CVE Number For Exploitation
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
-Easy Vulnerability Detection & Hints With CVE Number For Exploitation.
 ### Built With
 
 * [Python3]
@@ -37,15 +34,13 @@ Easy Vulnerability Detection & Hints With CVE Number For Exploitation.
 
    ```
    python3 vuln3r.py -h
-   
    ```
 *  Example
    ```
-  python3 vuln3r.py -u https://google.com -o google.txt
-   
+   python3 vuln3r.py -u https://google.com -o google.txt
    ```
 * Terminal Input
-  ```sh
+  ```
   
 
                                                                         
