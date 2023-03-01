@@ -75,19 +75,6 @@ Easy Vulnerability Detection &amp; Hints With CVE Number For Exploitation
    ```
    python3 vuln3r.py -u https://google.com -o google.txt
    ```
-   
-* Terminal Input
-```                                                                                                                                               ``` 
-usage: vuln3r.py [-h] -u URL -o OUTPUT                                                                                                                                
-                                                                                                                                                                      
-Easy Vulnerability Detection & Hints With CVE Number For Exploitation. Made By Ghosthub                                                                               
-                                                                                                                                                                      
-options:                                                                                                                                                              
-  -h, --help            show this help message and exit                                                                                                               
-  -u URL, --url URL     Input URL/IP [https://example.com] Or [IP Address]                                                                                            
-  -o OUTPUT, --output OUTPUT                                                                                                                                          
-                        Output file name [results.txt]                                                                                                                
- ``` 
   
 <!-- LICENSE -->
 ## License
